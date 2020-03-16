@@ -1,6 +1,8 @@
 body {
 	margin: 0;
 	font-family: helvetica;
+	background: #D23333;
+	color: white;
 }
 #logo{
 	height: 80px;
